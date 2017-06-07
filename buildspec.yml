@@ -1,7 +1,7 @@
 version: 0.1
 environment_variables:
     plaintext:
-        S3_BUCKET: "arn:aws:s3:::ng-deploy"
+        S3_BUCKET: "ngdeploy.ilyakrasnov.com"
         BUILD_ENV: "prod"
 phases:
     install:
