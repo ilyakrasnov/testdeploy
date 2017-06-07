@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = "Changed sth to check branch dai again for post commit";
+  title = "Test post commit hook";
 }
